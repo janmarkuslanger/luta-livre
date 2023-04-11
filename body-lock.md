@@ -11,8 +11,8 @@
 # Ablauf 
 - Bodylock initieren
 - 2/1 
-- 1. Bein passieren 
-- 2. Bein passieren 
+- Bein 1 passieren 
+- Bein 2 passieren 
 
 
 ## Phase 1. 
@@ -40,5 +40,6 @@ Möglichkeit 1: Knee Line Step over
 
 ## Phase 3
 
-Möglichkeit 1:
-- Wenn Bein an Hüfte ist nach Außen kippen 
+Möglichkeit 1: Wenn Bein an Hüfte ist
+- Nach Außen kippen 
+- Zweites Bein rübernehmen 
